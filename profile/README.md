@@ -1,4 +1,4 @@
-![Computer Science Club Banner](../banner.png)
+![Computer Science Club Banner](https://github.com/UMB-CS-Club/.github/raw/main/banner.png)
 
 # UMass Boston Computer Science Club
 
